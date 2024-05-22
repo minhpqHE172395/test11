@@ -1,0 +1,13 @@
+{
+    "elements": {
+        "c:forEach": {}
+    },
+    "attributes": {
+        "th:text": {
+            "context": "span"
+        },
+        "th:each": {
+            "context": "li"
+        }
+    }
+}
